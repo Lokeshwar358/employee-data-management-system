@@ -1,0 +1,10 @@
+Rahul,Testing,85
+Priya,Software,92
+Arun,Testing,67
+Kiran,Software,78
+Anil,Hardware,88
+mani,eee,77
+mani,22,33
+mani,22,35
+mani,22,33
+Manikanta,MEch,88
